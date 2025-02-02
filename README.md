@@ -1,6 +1,8 @@
 # AI Chatbot
 
 An AI-powered chatbot built using HTML, CSS, JavaScript, and the Google Gemini API that can interact with users, answer questions, and perform predefined tasks.
+
+
  "**Live Preview"  https://syed-ai-chatbot.vercel.app/
 ## Features
 - Natural language processing for intelligent conversations
